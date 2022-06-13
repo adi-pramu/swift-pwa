@@ -161,6 +161,9 @@
             "@common_productlabel/*": ["src/modules/commons/ProductLabel/*", "core/modules/commons/ProductLabel/*"],
             "@common_optionconfigurable/*": ["src/modules/commons/OptionConfigurable/*", "core/modules/commons/OptionConfigurable/*"],
 
+            "@common_circularloading": ["src/modules/commons/CircularProgress", "core/modules/commons/CircularProgress"],
+            "@common_circularloading/*": ["src/modules/commons/CircularProgress/*", "core/modules/commons/CircularProgress/*"],
+
             "@plugin_summary": ["src/modules/cart/plugins/Summary", "core/modules/cart/plugins/Summary"],
             "@plugin_summary/*": ["src/modules/cart/plugins/Summary/*", "core/modules/cart/plugins/Summary/*"],
             "@plugin_shoppingbag": ["src/modules/cart/plugins/ShoppingBag", "core/modules/cart/plugins/ShoppingBag"],

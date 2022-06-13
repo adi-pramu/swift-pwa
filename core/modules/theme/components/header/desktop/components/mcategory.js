@@ -112,6 +112,7 @@ const Menu = (props) => {
                     }
                     .nav a {
                         text-decoration: none;
+                        color: green !important;
                     }
                     .nav li {
                         list-style: none;

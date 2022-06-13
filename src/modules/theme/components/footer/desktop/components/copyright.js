@@ -20,7 +20,7 @@ const Copyright = (props) => {
                 {`
                     .copyright {
                         text-align: center;
-                        background-color: ##FFFFFF;
+                        background-color: #f542cb;
                         padding: 10px;
                     }
                     .copyright span {

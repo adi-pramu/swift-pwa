@@ -14,8 +14,8 @@ const HOST = {
 
 /* Magento GraphQL Endpoint */
 const graphqlEndpoint = {
-    local: 'https://swift-sprint.testingnow.me/graphql',
-    dev: 'https://swift-sprint.testingnow.me/graphql',
+    local: 'https://b2cdemo.getswift.asia/graphql',
+    dev: 'https://b2cdemo.getswift.asia/graphql',
     stage: 'https://b2cdemonew.gcp-staging.testingnow.me/graphql',
     prod: 'https://b2cdemo.getswift.asia/graphql',
 };
@@ -112,7 +112,7 @@ const keyLocalStorage = {
 };
 
 const features = {
-    useCustomStyle: false,
+    useCustomStyle: true,
     ssrCache: false,
     magezon: {
         instagramFeed: {
